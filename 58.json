@@ -1,0 +1,17 @@
+```json
+{
+  "name": "Pink Pawn",
+  "description": "NFTs are a fundamental part of our project and will be used in the first and second games. Each NFT owner will receive income from the AC Project Fund, as well as many other benefits.",
+  "image": "https://github.com/Salat10/AC-Project-4/blob/main/Flamingo6.PNG",
+  "attributes": [
+    {
+      "trait_type": "Piece",
+      "value": "Pawn"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Pink"
+    }
+  ]
+}
+```
